@@ -24,11 +24,17 @@ def send(text):
     try:
         res = json.loads(urllib.request.urlopen(req).read().decode("utf-8"))
         if res.get("ok"):
-            print(f"✅ Sent — message_id: {res['result']['message_id']}")
+            print("SENT ok message_id:", res["result"]["message_id"])
+            return True
         else:
-            print(f"❌ Telegram error: {res}")
+            print("TELEGRAM ERROR:", res)
+            return False
     except urllib.error.HTTPError as e:
-        print(f"❌ HTTP error: {e.code} — {e.read().decode()}")
+        print("HTTP ERROR:", e.code, e.read().decode("utf-8"))
+        return False
+    except Exception as e:
+        print("ERROR:", repr(e))
+        return False
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
@@ -36,4 +42,5 @@ if __name__ == "__main__":
         sys.exit(1)
     with open(sys.argv[1], "r", encoding="utf-8") as f:
         text = f.read().strip()
-    send(text)
+    ok = send(text)
+    sys.exit(0 if ok else 1)
