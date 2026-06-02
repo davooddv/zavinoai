@@ -9,6 +9,9 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| وارن بافت ۱۰ میلیارد دلار روی AI گوگل شرط بست — آدمی که همیشه از تکنولوژی فرار می‌کرد | Instagram + Twitter | single post | research/trends/2026-06-02-alphabet-80b-ai-infrastructure.md | 2026-06-02 |
+| مایکروسافت ۱۳ میلیارد دلار تو OpenAI گذاشت — حالا داره مدل‌هایی می‌سازه که بهشون نیاز نداشته باشه | Instagram + Twitter | single post | research/trends/2026-06-02-microsoft-build-2026-mai-models.md | 2026-06-02 |
+| لپ‌تاپ‌هایی که پاییز می‌رسن، ۱۲۸ گیگ رم دارن و می‌تونن AI رو بدون اینترنت اجرا کنن — Nvidia وارد بازار PC شد | Instagram + Twitter | single post | research/ai-tools/2026-06-02-nvidia-rtx-spark.md | 2026-06-02 |
 | مدل بعدی Claude لیک شد — ۵۱۲ هزار خط کد از یه اشتباه npm بیرون زد | Instagram + Twitter | single post | research/trends/2026-05-28-claude-4-8-leak.md | 2026-05-28 |
 | ChatGPT الان ۵۲٪ کمتر دروغ می‌گه — مدل پیش‌فرض جدید OpenAI چی تغییر کرد | Instagram + Twitter | single post | research/trends/2026-05-28-gpt-5-5-instant.md | 2026-05-28 |
 | ۲۷۶ هزار نفر از فردا با Claude کار می‌کنن — KPMG کل شرکتش رو با AI مسلح کرد | Instagram + Twitter | single post | research/trends/2026-05-28-kpmg-claude-276k.md | 2026-05-28 |
@@ -26,6 +29,8 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| از دیروز GitHub Copilot دیگه نامحدود نیست — یه سشن که قبلاً ۸ سنت بود الان ۱۳ دلار می‌ارزه | Twitter | single post | research/trends/2026-06-02-microsoft-build-2026-mai-models.md | 2026-06-02 |
+| در ۲۰۲۶، شرکت‌های بزرگ ۷۰۰ میلیارد دلار صرف زیرساخت AI می‌کنن — گوگل تنها ۱۸۰ میلیارد دلار | Instagram | carousel | research/trends/2026-06-02-alphabet-80b-ai-infrastructure.md | 2026-06-02 |
 | جنگ تراشه‌های AI — Jensen Huang گفت بازار چین رو دادیم به هواوی | Twitter | single post | https://artificiallyintimidating.com/p/ai-brief-may-26-2026 | 2026-05-27 |
 | ۱۰۰ تا چیز جدید از گوگل — ۳ تاش واقعاً مهمه (Google I/O 2026 carousel breakdown) | Instagram | carousel (5 slides) | research/trends/2026-05-27-google-io-2026-ai-search.md | 2026-05-27 |
 | عینک‌های هوش مصنوعی گوگل دیگه فیلم علمی‌تخیلی نیست — پاییز امسال می‌رسن (Android XR glasses) | Instagram | single post | research/trends/2026-05-27-google-io-2026-ai-search.md | 2026-05-27 |
