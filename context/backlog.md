@@ -9,6 +9,8 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| ابزار Codex دیگه فقط برای برنامه‌نویسا نیست — ۵ میلیون کاربر هفتگی دارن و کاربرهای غیرفنی ۳ برابر سریع‌تر رشد می‌کنن | Instagram + Twitter | single post | research/inbox/2026-06-03-daily-news.md | 2026-06-03 |
+| مایکروسافت یه دستیار AI ساخته که اسم داره، یاد می‌گیره، و وقتی لپ‌تاپت قفله داره کارت رو انجام می‌ده — Scout | Instagram + Twitter | single post | research/inbox/2026-06-03-daily-news.md | 2026-06-03 |
 | وارن بافت ۱۰ میلیارد دلار روی AI گوگل شرط بست — آدمی که همیشه از تکنولوژی فرار می‌کرد | Instagram + Twitter | single post | research/trends/2026-06-02-alphabet-80b-ai-infrastructure.md | 2026-06-02 |
 | مایکروسافت ۱۳ میلیارد دلار تو OpenAI گذاشت — حالا داره مدل‌هایی می‌سازه که بهشون نیاز نداشته باشه | Instagram + Twitter | single post | research/trends/2026-06-02-microsoft-build-2026-mai-models.md | 2026-06-02 |
 | لپ‌تاپ‌هایی که پاییز می‌رسن، ۱۲۸ گیگ رم دارن و می‌تونن AI رو بدون اینترنت اجرا کنن — Nvidia وارد بازار PC شد | Instagram + Twitter | single post | research/ai-tools/2026-06-02-nvidia-rtx-spark.md | 2026-06-02 |
@@ -27,6 +29,8 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| OpenAI برای فروشنده، طراح، بانکر و تحلیلگر پلاگین جداگانه ساخته — AI داره شغل به شغل می‌ره (Codex 6 plugins carousel) | Instagram | carousel | research/inbox/2026-06-03-daily-news.md | 2026-06-03 |
+| فرق Copilot و Scout — یکی جواب می‌ده، یکی کار می‌کنه (Scout vs Copilot explainer) | Twitter | thread | research/inbox/2026-06-03-daily-news.md | 2026-06-03 |
 | از دیروز GitHub Copilot دیگه نامحدود نیست — یه سشن که قبلاً ۸ سنت بود الان ۱۳ دلار می‌ارزه | Twitter | single post | research/trends/2026-06-02-microsoft-build-2026-mai-models.md | 2026-06-02 |
 | در ۲۰۲۶، شرکت‌های بزرگ ۷۰۰ میلیارد دلار صرف زیرساخت AI می‌کنن — گوگل تنها ۱۸۰ میلیارد دلار | Instagram | carousel | research/trends/2026-06-02-alphabet-80b-ai-infrastructure.md | 2026-06-02 |
 | جنگ تراشه‌های AI — Jensen Huang گفت بازار چین رو دادیم به هواوی | Twitter | single post | https://artificiallyintimidating.com/p/ai-brief-may-26-2026 | 2026-05-27 |
