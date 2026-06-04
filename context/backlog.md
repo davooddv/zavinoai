@@ -9,13 +9,14 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| ~~Uber کل بودجه AI سالانه‌اش رو در ۴ ماه تموم کرد~~ ✅ written 2026-06-04 | Instagram + Twitter | single post | outputs/telegram/2026-06-04-uber-ai-budget.md | 2026-06-04 |
 | DeepSeek برای اولین بار پول خارجی قبول کرد — شرکتی که بدون VC، گوگل و OpenAI رو لرزوند، الان ۷.۴ میلیارد دلار جمع می‌کنه | Instagram + Twitter | single post | research/trends/2026-06-04-deepseek-first-funding-7b.md | 2026-06-04 |
 | تیم کوک بعد از ۱۵ سال داره می‌ره — WWDC 2026 آخرین keynoteشه و Siri بالاخره تبدیل به AI واقعی می‌شه | Instagram + Twitter | single post | research/trends/2026-06-04-apple-wwdc-2026-siri-tim-cook.md | 2026-06-04 |
 | مایکروسافت از هوش مصنوعی خودش استفاده کرد تا تراشه کوانتومی بسازه — ۱۰۰۰ برابر بهتر، تایم‌لاین از ۲۰۳۵ به ۲۰۲۹ | Instagram + Twitter | single post | research/trends/2026-06-03-microsoft-majorana2-quantum.md | 2026-06-03 |
 | شرکت OpenAI و آمازون رقیبن — اما GPT-5.5 الان روی AWS کنار Claude می‌فروشه | Instagram + Twitter | single post | research/trends/2026-06-03-openai-aws-bedrock-ga.md | 2026-06-03 |
 | ابزار Codex دیگه فقط برای برنامه‌نویسا نیست — ۵ میلیون کاربر هفتگی دارن و کاربرهای غیرفنی ۳ برابر سریع‌تر رشد می‌کنن | Instagram + Twitter | single post | research/inbox/2026-06-03-daily-news.md | 2026-06-03 |
 | مایکروسافت یه دستیار AI ساخته که اسم داره، یاد می‌گیره، و وقتی لپ‌تاپت قفله داره کارت رو انجام می‌ده — Scout | Instagram + Twitter | single post | research/inbox/2026-06-03-daily-news.md | 2026-06-03 |
-| وارن بافت ۱۰ میلیارد دلار روی AI گوگل شرط بست — آدمی که همیشه از تکنولوژی فرار می‌کرد | Instagram + Twitter | single post | research/trends/2026-06-02-alphabet-80b-ai-infrastructure.md | 2026-06-02 |
+| ~~وارن بافت ۱۰ میلیارد دلار روی AI گوگل شرط بست~~ ✅ written 2026-06-04 | Instagram + Twitter | single post | outputs/telegram/2026-06-04-buffett-google-ai.md | 2026-06-02 |
 | مایکروسافت ۱۳ میلیارد دلار تو OpenAI گذاشت — حالا داره مدل‌هایی می‌سازه که بهشون نیاز نداشته باشه | Instagram + Twitter | single post | research/trends/2026-06-02-microsoft-build-2026-mai-models.md | 2026-06-02 |
 | لپ‌تاپ‌هایی که پاییز می‌رسن، ۱۲۸ گیگ رم دارن و می‌تونن AI رو بدون اینترنت اجرا کنن — Nvidia وارد بازار PC شد | Instagram + Twitter | single post | research/ai-tools/2026-06-02-nvidia-rtx-spark.md | 2026-06-02 |
 | مدل بعدی Claude لیک شد — ۵۱۲ هزار خط کد از یه اشتباه npm بیرون زد | Instagram + Twitter | single post | research/trends/2026-05-28-claude-4-8-leak.md | 2026-05-28 |
@@ -33,6 +34,7 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| قبل از اینکه مدل AI جدید به دستت برسه، دولت آمریکا یه ماه باهاش کار کرده — دستور ترامپ برای ۳۰ روز دسترسی اول | Twitter | single post | research/inbox/2026-06-04-evening-news.md | 2026-06-04 |
 | Siri داره به Claude و Gemini ارجاع می‌ده — Apple داره می‌گه رقباش از خودش بهترن | Twitter | thread | research/trends/2026-06-04-apple-wwdc-2026-siri-tim-cook.md | 2026-06-04 |
 | موسس DeepSeek از پول شخصیش ۳ میلیارد دلار در این دور گذاشت — ۴۰٪ یه دور ۷.۴ میلیارد دلاری | Twitter | single post | research/trends/2026-06-04-deepseek-first-funding-7b.md | 2026-06-04 |
 | اگه از AWS استفاده می‌کنی، می‌تونی GPT-5.5 رو از سهمیه‌ات استفاده کنی — OpenAI و AWS رقیبن اما زیر یه سقفن | Twitter | single post | research/trends/2026-06-03-openai-aws-bedrock-ga.md | 2026-06-03 |
