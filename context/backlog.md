@@ -12,6 +12,8 @@
 | ~~Uber کل بودجه AI سالانه‌اش رو در ۴ ماه تموم کرد~~ ✅ written 2026-06-04 | Instagram + Twitter | single post | outputs/telegram/2026-06-04-uber-ai-budget.md | 2026-06-04 |
 | ~~بزرگ‌ترین برنده‌ی موج vibe coding یه شرکت دیتابیسه — Claude Code الان مشتری شماره یه Supabase‌ست و این شرکت ۵۰۰ میلیون دلار جذب کرد~~ ✅ written 2026-06-05 | Instagram + Twitter | single post | outputs/telegram/2026-06-05-supabase-500m-claude-code.md | 2026-06-05 |
 | ~~از امروز می‌شه توی ChatGPT تبلیغ performance بذاری — OpenAI وارد بازار گوگل و متا شد و نرخ تبدیلش ادعا می‌کنه ۲ برابر گوگل Search هست~~ ✅ written 2026-06-05 | Instagram + Twitter | single post | outputs/telegram/2026-06-05-chatgpt-conversion-ads.md | 2026-06-05 |
+| ChatGPT دیگه نیازی نیست بهش بگی «یاد بگیر» — OpenAI سیستم حافظه رو از نو ساخت و دقت از ۴۱٪ به ۸۳٪ رسید | Instagram + Twitter | single post | research/trends/2026-06-05-chatgpt-dreaming-v3-memory.md | 2026-06-05 |
+| آمریکا یه قانون ۲۶۹ صفحه‌ای نوشت که همه شرکت‌های AI رو برای ۳ سال از قوانین ایالتی آزاد می‌کنه | Instagram + Twitter | single post | research/trends/2026-06-05-great-american-ai-act.md | 2026-06-05 |
 | Oracle با بهترین نتایج مالی تاریخش ۳۰ هزار نفر رو اخراج کرد — ددلاین ۱۵ ژوئن، ۱۸٪ کل نیروی کار | Instagram + Twitter | single post | research/trends/2026-06-05-oracle-30k-layoffs-ai-pivot.md | 2026-06-05 |
 | انویدیا ربات انسان‌نمای ۳۰ هزار دلاری ساخت که «همه می‌تونن بخرن» — مدلش open source و مغزش Jetson Thor | Instagram + Twitter | single post | research/trends/2026-06-05-nvidia-humanoid-robot-29900.md | 2026-06-05 |
 | درآمد Anthropic از ۱۰ به ۴۷ میلیارد دلار در ۵ ماه — و ماهی ۱.۲۵ میلیارد دلار به xAI رقیب می‌ده | Instagram + Twitter | single post | research/trends/2026-06-05-anthropic-ipo-daniela-bloomberg.md | 2026-06-05 |
@@ -39,6 +41,7 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| ابزار Perplexity یه مشکل حل کرد — می‌تونی از AI قوی استفاده کنی و مطمئن باشی اطلاعات حساست از لپ‌تاپت بیرون نمی‌ره | Instagram + Twitter | single post | research/trends/2026-06-05-perplexity-hybrid-local-cloud.md | 2026-06-05 |
 | OpenAI می‌خواد تا ۲۰۳۰ از تبلیغات ChatGPT صد میلیارد دلار درآمد داشته باشه — بزرگ‌تر از گوگل | Twitter | single post | research/trends/2026-06-05-chatgpt-conversion-ads.md | 2026-06-05 |
 | Claude Code بزرگ‌ترین مشتری Supabase شد — نه انسان. AI داره برای AI زیرساخت می‌سازه | Twitter | thread | research/trends/2026-06-05-supabase-500m-vibe-coding.md | 2026-06-05 |
 | سازنده Claude داره می‌ره بورس — و قبل از IPO، ماهی ۱.۲۵ میلیارد دلار به رقیب (xAI) پول می‌ده | Twitter | single post | research/trends/2026-06-05-anthropic-ipo-daniela-bloomberg.md | 2026-06-05 |
