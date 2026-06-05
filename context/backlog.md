@@ -12,6 +12,9 @@
 | ~~Uber کل بودجه AI سالانه‌اش رو در ۴ ماه تموم کرد~~ ✅ written 2026-06-04 | Instagram + Twitter | single post | outputs/telegram/2026-06-04-uber-ai-budget.md | 2026-06-04 |
 | ~~بزرگ‌ترین برنده‌ی موج vibe coding یه شرکت دیتابیسه — Claude Code الان مشتری شماره یه Supabase‌ست و این شرکت ۵۰۰ میلیون دلار جذب کرد~~ ✅ written 2026-06-05 | Instagram + Twitter | single post | outputs/telegram/2026-06-05-supabase-500m-claude-code.md | 2026-06-05 |
 | ~~از امروز می‌شه توی ChatGPT تبلیغ performance بذاری — OpenAI وارد بازار گوگل و متا شد و نرخ تبدیلش ادعا می‌کنه ۲ برابر گوگل Search هست~~ ✅ written 2026-06-05 | Instagram + Twitter | single post | outputs/telegram/2026-06-05-chatgpt-conversion-ads.md | 2026-06-05 |
+| Oracle با بهترین نتایج مالی تاریخش ۳۰ هزار نفر رو اخراج کرد — ددلاین ۱۵ ژوئن، ۱۸٪ کل نیروی کار | Instagram + Twitter | single post | research/trends/2026-06-05-oracle-30k-layoffs-ai-pivot.md | 2026-06-05 |
+| انویدیا ربات انسان‌نمای ۳۰ هزار دلاری ساخت که «همه می‌تونن بخرن» — مدلش open source و مغزش Jetson Thor | Instagram + Twitter | single post | research/trends/2026-06-05-nvidia-humanoid-robot-29900.md | 2026-06-05 |
+| درآمد Anthropic از ۱۰ به ۴۷ میلیارد دلار در ۵ ماه — و ماهی ۱.۲۵ میلیارد دلار به xAI رقیب می‌ده | Instagram + Twitter | single post | research/trends/2026-06-05-anthropic-ipo-daniela-bloomberg.md | 2026-06-05 |
 | DeepSeek برای اولین بار پول خارجی قبول کرد — شرکتی که بدون VC، گوگل و OpenAI رو لرزوند، الان ۷.۴ میلیارد دلار جمع می‌کنه | Instagram + Twitter | single post | research/trends/2026-06-04-deepseek-first-funding-7b.md | 2026-06-04 |
 | تیم کوک بعد از ۱۵ سال داره می‌ره — WWDC 2026 آخرین keynoteشه و Siri بالاخره تبدیل به AI واقعی می‌شه | Instagram + Twitter | single post | research/trends/2026-06-04-apple-wwdc-2026-siri-tim-cook.md | 2026-06-04 |
 | مایکروسافت از هوش مصنوعی خودش استفاده کرد تا تراشه کوانتومی بسازه — ۱۰۰۰ برابر بهتر، تایم‌لاین از ۲۰۳۵ به ۲۰۲۹ | Instagram + Twitter | single post | research/trends/2026-06-03-microsoft-majorana2-quantum.md | 2026-06-03 |
@@ -38,6 +41,8 @@
 |---|---|---|---|---|
 | OpenAI می‌خواد تا ۲۰۳۰ از تبلیغات ChatGPT صد میلیارد دلار درآمد داشته باشه — بزرگ‌تر از گوگل | Twitter | single post | research/trends/2026-06-05-chatgpt-conversion-ads.md | 2026-06-05 |
 | Claude Code بزرگ‌ترین مشتری Supabase شد — نه انسان. AI داره برای AI زیرساخت می‌سازه | Twitter | thread | research/trends/2026-06-05-supabase-500m-vibe-coding.md | 2026-06-05 |
+| سازنده Claude داره می‌ره بورس — و قبل از IPO، ماهی ۱.۲۵ میلیارد دلار به رقیب (xAI) پول می‌ده | Twitter | single post | research/trends/2026-06-05-anthropic-ipo-daniela-bloomberg.md | 2026-06-05 |
+| Oracle 30000 اخراج + ۳۱۲۶ ویزای H-1B — همزمان آدم اخراج می‌کنه و از خارج استخدام می‌کنه | Twitter | single post | research/trends/2026-06-05-oracle-30k-layoffs-ai-pivot.md | 2026-06-05 |
 | قبل از اینکه مدل AI جدید به دستت برسه، دولت آمریکا یه ماه باهاش کار کرده — دستور ترامپ برای ۳۰ روز دسترسی اول | Twitter | single post | research/inbox/2026-06-04-evening-news.md | 2026-06-04 |
 | Siri داره به Claude و Gemini ارجاع می‌ده — Apple داره می‌گه رقباش از خودش بهترن | Twitter | thread | research/trends/2026-06-04-apple-wwdc-2026-siri-tim-cook.md | 2026-06-04 |
 | موسس DeepSeek از پول شخصیش ۳ میلیارد دلار در این دور گذاشت — ۴۰٪ یه دور ۷.۴ میلیارد دلاری | Twitter | single post | research/trends/2026-06-04-deepseek-first-funding-7b.md | 2026-06-04 |
