@@ -12,6 +12,9 @@
 | ~~Uber کل بودجه AI سالانه‌اش رو در ۴ ماه تموم کرد~~ ✅ written 2026-06-04 | Instagram + Twitter | single post | outputs/telegram/2026-06-04-uber-ai-budget.md | 2026-06-04 |
 | ~~بزرگ‌ترین برنده‌ی موج vibe coding یه شرکت دیتابیسه — Claude Code الان مشتری شماره یه Supabase‌ست و این شرکت ۵۰۰ میلیون دلار جذب کرد~~ ✅ written 2026-06-05 | Instagram + Twitter | single post | outputs/telegram/2026-06-05-supabase-500m-claude-code.md | 2026-06-05 |
 | ~~از امروز می‌شه توی ChatGPT تبلیغ performance بذاری — OpenAI وارد بازار گوگل و متا شد و نرخ تبدیلش ادعا می‌کنه ۲ برابر گوگل Search هست~~ ✅ written 2026-06-05 | Instagram + Twitter | single post | outputs/telegram/2026-06-05-chatgpt-conversion-ads.md | 2026-06-05 |
+| هکرها فقط از ربات AI متا خواستن — و اینستاگرام حساب کاخ سفید رو تحویل داد | Instagram + Twitter | single post | research/trends/2026-06-06-meta-instagram-ai-hack.md | 2026-06-06 |
+| جف بزوس ۱۰۰ میلیون دلار داد تا AI بسازن که با ۵۰ وات کار کنه — به اندازه یه لپ‌تاپ، نه یه داده‌سنتر | Instagram + Twitter | single post | research/trends/2026-06-06-flourish-ai-bezos-brain-500m.md | 2026-06-06 |
+| گوگل ۶۰۰۰ pull request رایگان گرفت، بعد همه رو از ابزارش اخراج کرد — فقط enterprise می‌تونه بمونه | Instagram + Twitter | single post | research/trends/2026-06-06-google-gemini-cli-bait-switch.md | 2026-06-06 |
 | ChatGPT دیگه نیازی نیست بهش بگی «یاد بگیر» — OpenAI سیستم حافظه رو از نو ساخت و دقت از ۴۱٪ به ۸۳٪ رسید | Instagram + Twitter | single post | research/trends/2026-06-05-chatgpt-dreaming-v3-memory.md | 2026-06-05 |
 | آمریکا یه قانون ۲۶۹ صفحه‌ای نوشت که همه شرکت‌های AI رو برای ۳ سال از قوانین ایالتی آزاد می‌کنه | Instagram + Twitter | single post | research/trends/2026-06-05-great-american-ai-act.md | 2026-06-05 |
 | Oracle با بهترین نتایج مالی تاریخش ۳۰ هزار نفر رو اخراج کرد — ددلاین ۱۵ ژوئن، ۱۸٪ کل نیروی کار | Instagram + Twitter | single post | research/trends/2026-06-05-oracle-30k-layoffs-ai-pivot.md | 2026-06-05 |
