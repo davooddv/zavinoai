@@ -15,6 +15,8 @@
 | هکرها فقط از ربات AI متا خواستن — و اینستاگرام حساب کاخ سفید رو تحویل داد | Instagram + Twitter | single post | research/trends/2026-06-06-meta-instagram-ai-hack.md | 2026-06-06 |
 | جف بزوس ۱۰۰ میلیون دلار داد تا AI بسازن که با ۵۰ وات کار کنه — به اندازه یه لپ‌تاپ، نه یه داده‌سنتر | Instagram + Twitter | single post | research/trends/2026-06-06-flourish-ai-bezos-brain-500m.md | 2026-06-06 |
 | گوگل ۶۰۰۰ pull request رایگان گرفت، بعد همه رو از ابزارش اخراج کرد — فقط enterprise می‌تونه بمونه | Instagram + Twitter | single post | research/trends/2026-06-06-google-gemini-cli-bait-switch.md | 2026-06-06 |
+| شرکت Suno با ۲ میلیون مشترک پولی، ۵.۴ میلیارد دلار ارزش داره — در حالی که هنوز دعوای ۵۰۰ میلیون دلاری داره | Instagram + Twitter | single post | research/trends/2026-06-06-suno-400m-54b-valuation.md | 2026-06-06 |
+| مغز مشترک برای همه ربات‌ها — شرکت Generalist AI با تیم سابق DeepMind و Boston Dynamics، ۴۰۰ میلیون دلار جمع کرد | Instagram + Twitter | single post | research/trends/2026-06-06-generalist-ai-400m-robotics-brain.md | 2026-06-06 |
 | ChatGPT دیگه نیازی نیست بهش بگی «یاد بگیر» — OpenAI سیستم حافظه رو از نو ساخت و دقت از ۴۱٪ به ۸۳٪ رسید | Instagram + Twitter | single post | research/trends/2026-06-05-chatgpt-dreaming-v3-memory.md | 2026-06-05 |
 | آمریکا یه قانون ۲۶۹ صفحه‌ای نوشت که همه شرکت‌های AI رو برای ۳ سال از قوانین ایالتی آزاد می‌کنه | Instagram + Twitter | single post | research/trends/2026-06-05-great-american-ai-act.md | 2026-06-05 |
 | Oracle با بهترین نتایج مالی تاریخش ۳۰ هزار نفر رو اخراج کرد — ددلاین ۱۵ ژوئن، ۱۸٪ کل نیروی کار | Instagram + Twitter | single post | research/trends/2026-06-05-oracle-30k-layoffs-ai-pivot.md | 2026-06-05 |
