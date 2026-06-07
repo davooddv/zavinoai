@@ -9,6 +9,9 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| Sam Altman خودش پیشنهاد داد دولت آمریکا سهام OpenAI رو بگیره — ترامپ قبول کرد، Anthropic رد شد | Instagram + Twitter | single post | research/trends/2026-06-07-trump-government-equity-openai-anthropic.md | 2026-06-07 |
+| SpaceX فردا قیمت‌گذاری می‌شه — ۷۵ میلیارد دلار جذب، ۳ برابر Saudi Aramco، بزرگ‌ترین IPO تاریخ | Instagram + Twitter | single post | research/trends/2026-06-07-spacex-ipo-largest-history.md | 2026-06-07 |
+| Claude یه مدل مخفی داره که به NATO و ارتش اروپا داده شده — ۲۳ هزار باگ پیدا کرد، ولی پنتاگون ازش ممنوعه | Instagram + Twitter | single post | research/trends/2026-06-07-claude-mythos-glasswing-expansion-june2.md | 2026-06-07 |
 | ~~Uber کل بودجه AI سالانه‌اش رو در ۴ ماه تموم کرد~~ ✅ written 2026-06-04 | Instagram + Twitter | single post | outputs/telegram/2026-06-04-uber-ai-budget.md | 2026-06-04 |
 | ~~بزرگ‌ترین برنده‌ی موج vibe coding یه شرکت دیتابیسه — Claude Code الان مشتری شماره یه Supabase‌ست و این شرکت ۵۰۰ میلیون دلار جذب کرد~~ ✅ written 2026-06-05 | Instagram + Twitter | single post | outputs/telegram/2026-06-05-supabase-500m-claude-code.md | 2026-06-05 |
 | ~~از امروز می‌شه توی ChatGPT تبلیغ performance بذاری — OpenAI وارد بازار گوگل و متا شد و نرخ تبدیلش ادعا می‌کنه ۲ برابر گوگل Search هست~~ ✅ written 2026-06-05 | Instagram + Twitter | single post | outputs/telegram/2026-06-05-chatgpt-conversion-ads.md | 2026-06-05 |
