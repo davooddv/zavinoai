@@ -9,6 +9,8 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| Apple یک میلیارد دلار به Google داد تا Siri کار کنه — WWDC 2026 کنفرانس امروز اعلام شد، ۱.۴ میلیارد iPhone از Gemini قدرت می‌گیرن | Instagram + Twitter | single post | research/trends/2026-06-08-apple-wwdc-gemini-siri-ios27.md | 2026-06-08 |
+| شرکت چینی Moonshot AI در ۶ ماه ۷ برابر شد — ارزشش از ۴ به ۳۰ میلیارد دلار رسید، Kimi رتبه ۲ LLM دنیاست | Instagram + Twitter | single post | research/trends/2026-06-08-moonshot-ai-30b-valuation.md | 2026-06-08 |
 | Sam Altman خودش پیشنهاد داد دولت آمریکا سهام OpenAI رو بگیره — ترامپ قبول کرد، Anthropic رد شد | Instagram + Twitter | single post | research/trends/2026-06-07-trump-government-equity-openai-anthropic.md | 2026-06-07 |
 | SpaceX فردا قیمت‌گذاری می‌شه — ۷۵ میلیارد دلار جذب، ۳ برابر Saudi Aramco، بزرگ‌ترین IPO تاریخ | Instagram + Twitter | single post | research/trends/2026-06-07-spacex-ipo-largest-history.md | 2026-06-07 |
 | Claude یه مدل مخفی داره که به NATO و ارتش اروپا داده شده — ۲۳ هزار باگ پیدا کرد، ولی پنتاگون ازش ممنوعه | Instagram + Twitter | single post | research/trends/2026-06-07-claude-mythos-glasswing-expansion-june2.md | 2026-06-07 |
@@ -16,7 +18,7 @@
 | ~~بزرگ‌ترین برنده‌ی موج vibe coding یه شرکت دیتابیسه — Claude Code الان مشتری شماره یه Supabase‌ست و این شرکت ۵۰۰ میلیون دلار جذب کرد~~ ✅ written 2026-06-05 | Instagram + Twitter | single post | outputs/telegram/2026-06-05-supabase-500m-claude-code.md | 2026-06-05 |
 | ~~از امروز می‌شه توی ChatGPT تبلیغ performance بذاری — OpenAI وارد بازار گوگل و متا شد و نرخ تبدیلش ادعا می‌کنه ۲ برابر گوگل Search هست~~ ✅ written 2026-06-05 | Instagram + Twitter | single post | outputs/telegram/2026-06-05-chatgpt-conversion-ads.md | 2026-06-05 |
 | هکرها فقط از ربات AI متا خواستن — و اینستاگرام حساب کاخ سفید رو تحویل داد | Instagram + Twitter | single post | research/trends/2026-06-06-meta-instagram-ai-hack.md | 2026-06-06 |
-| جف بزوس ۱۰۰ میلیون دلار داد تا AI بسازن که با ۵۰ وات کار کنه — به اندازه یه لپ‌تاپ، نه یه داده‌سنتر | Instagram + Twitter | single post | research/trends/2026-06-06-flourish-ai-bezos-brain-500m.md | 2026-06-06 |
+| جف بزوس ۱۰۰ میلیون دلار داد تا AI بسازن که با ۵۰ وات کار کنه — به اندازه یه لپ‌تاپ، نه یه داته‌سنتر | Instagram + Twitter | single post | research/trends/2026-06-06-flourish-ai-bezos-brain-500m.md | 2026-06-06 |
 | گوگل ۶۰۰۰ pull request رایگان گرفت، بعد همه رو از ابزارش اخراج کرد — فقط enterprise می‌تونه بمونه | Instagram + Twitter | single post | research/trends/2026-06-06-google-gemini-cli-bait-switch.md | 2026-06-06 |
 | شرکت Suno با ۲ میلیون مشترک پولی، ۵.۴ میلیارد دلار ارزش داره — در حالی که هنوز دعوای ۵۰۰ میلیون دلاری داره | Instagram + Twitter | single post | research/trends/2026-06-06-suno-400m-54b-valuation.md | 2026-06-06 |
 | مغز مشترک برای همه ربات‌ها — شرکت Generalist AI با تیم سابق DeepMind و Boston Dynamics، ۴۰۰ میلیون دلار جمع کرد | Instagram + Twitter | single post | research/trends/2026-06-06-generalist-ai-400m-robotics-brain.md | 2026-06-06 |
