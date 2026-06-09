@@ -9,6 +9,8 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| گوگل ماهی ۹۲۰ میلیون دلار به SpaceX می‌ده — چون به ۱۱۰ هزار GPU نیاز داره و جای دیگه‌ای پیدا نکرده | Instagram + Twitter | single post | research/trends/2026-06-06-google-spacex-920m-gpu-deal.md | 2026-06-09 |
+| ارزش PhysicsX در یک سال ۱۷ برابر شد — AI که شبیه‌سازی موتور جت رو از ماه‌ها به ثانیه رسوند، ۳۰۰ میلیون دلار جذب کرد | Instagram + Twitter | single post | research/trends/2026-06-08-physicsx-300m-physics-ai.md | 2026-06-09 |
 | Apple یک میلیارد دلار به Google داد تا Siri کار کنه — WWDC 2026 کنفرانس امروز اعلام شد، ۱.۴ میلیارد iPhone از Gemini قدرت می‌گیرن | Instagram + Twitter | single post | research/trends/2026-06-08-apple-wwdc-gemini-siri-ios27.md | 2026-06-08 |
 | شرکت چینی Moonshot AI در ۶ ماه ۷ برابر شد — ارزشش از ۴ به ۳۰ میلیارد دلار رسید، Kimi رتبه ۲ LLM دنیاست | Instagram + Twitter | single post | research/trends/2026-06-08-moonshot-ai-30b-valuation.md | 2026-06-08 |
 | Sam Altman خودش پیشنهاد داد دولت آمریکا سهام OpenAI رو بگیره — ترامپ قبول کرد، Anthropic رد شد | Instagram + Twitter | single post | research/trends/2026-06-07-trump-government-equity-openai-anthropic.md | 2026-06-07 |
