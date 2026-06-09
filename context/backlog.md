@@ -9,6 +9,8 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| ChatGPT الان ۵۴٪ بازار AI داره — یه سال پیش ۷۶٪ داشت. Gemini در ۱۴ ماه ۵ برابر شد، Claude در یه فصل ۳ برابر | Instagram + Twitter | single post | research/trends/2026-06-09-chatgpt-gemini-claude-market-share-2026.md | 2026-06-09 |
+| یه شرکت هر دو هفته یه نرم‌افزار می‌خره و با AI از نو می‌سازه — ۲۲۵ میلیون دلار جذب کرد، ضد PE | Instagram + Twitter | single post | research/trends/2026-06-09-beacon-225m-anti-pe-ai-rollup.md | 2026-06-09 |
 | گوگل ماهی ۹۲۰ میلیون دلار به SpaceX می‌ده — چون به ۱۱۰ هزار GPU نیاز داره و جای دیگه‌ای پیدا نکرده | Instagram + Twitter | single post | research/trends/2026-06-06-google-spacex-920m-gpu-deal.md | 2026-06-09 |
 | ارزش PhysicsX در یک سال ۱۷ برابر شد — AI که شبیه‌سازی موتور جت رو از ماه‌ها به ثانیه رسوند، ۳۰۰ میلیون دلار جذب کرد | Instagram + Twitter | single post | research/trends/2026-06-08-physicsx-300m-physics-ai.md | 2026-06-09 |
 | Apple یک میلیارد دلار به Google داد تا Siri کار کنه — WWDC 2026 کنفرانس امروز اعلام شد، ۱.۴ میلیارد iPhone از Gemini قدرت می‌گیرن | Instagram + Twitter | single post | research/trends/2026-06-08-apple-wwdc-gemini-siri-ios27.md | 2026-06-08 |
