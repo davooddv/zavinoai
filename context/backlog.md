@@ -32,7 +32,7 @@
 | آمریکا یه قانون ۲۶۹ صفحه‌ای نوشت که همه شرکت‌های AI رو برای ۳ سال از قوانین ایالتی آزاد می‌کنه | Instagram + Twitter | single post | research/trends/2026-06-05-great-american-ai-act.md | 2026-06-05 |
 | Oracle با بهترین نتایج مالی تاریخش ۳۰ هزار نفر رو اخراج کرد — ددلاین ۱۵ ژوئن، ۱۸٪ کل نیروی کار | Instagram + Twitter | single post | research/trends/2026-06-05-oracle-30k-layoffs-ai-pivot.md | 2026-06-05 |
 | انویدیا ربات انسان‌نمای ۳۰ هزار دلاری ساخت که «همه می‌تونن بخرن» — مدلش open source و مغزش Jetson Thor | Instagram + Twitter | single post | research/trends/2026-06-05-nvidia-humanoid-robot-29900.md | 2026-06-05 |
-| درآمد Anthropic از ۱۰ به ۴۷ میلیارد دلار در ۵ ماه — و ماهی ۱.۲۵ میلیارد دلار به xAI رقیب می‌ده | Instagram + Twitter | single post | research/trends/2026-06-05-anthropic-ipo-daniela-bloomberg.md | 2026-06-05 |
+| ~~درآمد Anthropic از ۱۰ به ۴۷ میلیارد دلار در ۵ ماه — و ماهی ۱.۲۵ میلیارد دلار به xAI رقیب می‌ده~~ ✅ written 2026-06-11 | Instagram + Twitter | single post | outputs/telegram/2026-06-11-anthropic-65b-series-h-ipo.md | 2026-06-05 |
 | DeepSeek برای اولین بار پول خارجی قبول کرد — شرکتی که بدون VC، گوگل و OpenAI رو لرزوند، الان ۷.۴ میلیارد دلار جمع می‌کنه | Instagram + Twitter | single post | research/trends/2026-06-04-deepseek-first-funding-7b.md | 2026-06-04 |
 | تیم کوک بعد از ۱۵ سال داره می‌ره — WWDC 2026 آخرین keynoteشه و Siri بالاخره تبدیل به AI واقعی می‌شه | Instagram + Twitter | single post | research/trends/2026-06-04-apple-wwdc-2026-siri-tim-cook.md | 2026-06-04 |
 | مایکروسافت از هوش مصنوعی خودش استفاده کرد تا تراشه کوانتومی بسازه — ۱۰۰۰ برابر بهتر، تایم‌لاین از ۲۰۳۵ به ۲۰۲۹ | Instagram + Twitter | single post | research/trends/2026-06-03-microsoft-majorana2-quantum.md | 2026-06-03 |
