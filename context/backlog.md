@@ -9,6 +9,9 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| آنتروپیک ۱۰۰۰ نفر رو با ۸۵ هزار دلار استخدام کرد — بدون مدرک، فقط بلد باشن Claude کار کنن. شرکتی که داره شغل‌ها رو از بین می‌بره، ۱۵۰ میلیون دلار خرج کرد تا آدم‌ها یاد بگیرن با AI کنار بیان | Instagram + Twitter | single post | research/trends/2026-06-12-anthropic-claude-corps-150m-fellowship.md | 2026-06-12 |
+| دو شرکت ChatGPT و Claude در ۱۰ روز هر دو فرم بورس پر کردن — هر دو میلیاردها ضرر دارن، هر دو میلیاردها ارزش دارن. شرکتی که ChatGPT رو ساخت از رقیبش ارزان‌تره | Instagram + Twitter | single post | research/trends/2026-06-12-openai-ipo-confidential-s1-filing.md | 2026-06-12 |
+| مدل ارزون‌تر گوگل از مدل گرون‌ترش باهوش‌تر شد — و الان مغز همه سرچ‌های دنیاست. Gemini 3.5 Flash جایگزین 3.1 Pro شد | Instagram + Twitter | single post | research/trends/2026-06-12-gemini-35-flash-google-search-default.md | 2026-06-12 |
 | آمریکا چیپ‌هاش رو از چین گرفت — چین ۲۹۵ میلیارد دلار خرج کرد تا دیگه به آمریکا نیاز نداشته باشه. ۸۰٪ تراشه‌ها از هواوی، انویدیا ممنوع | Instagram + Twitter | single post | research/trends/2026-06-09-china-295b-ai-datacenter-no-nvidia.md | 2026-06-11 |
 | ~~آنتروپیک ۴ روز پیش گفت AI خطرناکه — امروز قوی‌ترین مدلش رو برای همه آزاد کرد. Claude Fable 5 همون مدلیه که ۲۷۱ باگ مخفی Firefox رو در یه بار اسکن پیدا کرد~~ ✅ written 2026-06-10 | Instagram + Twitter | single post | outputs/telegram/2026-06-10-claude-fable-5-public-release.md | 2026-06-10 |
 | ~~Claude الان ۸۰٪ کدهایی که Claude رو بهتر می‌کنه رو خودش می‌نویسه — آنتروپیک گفت AI داره به recursive self-improvement نزدیک می‌شه و از همه خواست ترمز بزنن~~ ✅ written 2026-06-10 | Instagram + Twitter | single post | outputs/telegram/2026-06-10-ai-building-itself-anthropic.md | 2026-06-10 |
