@@ -9,6 +9,10 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| انویدیا GPU فروختن به چین ممنوع بود — ولی CPU ممنوع نیست. از آگوست مشتریان چینی می‌تونن Vera CPU سفارش بدن. جنسن هوانگ گفت سهم چین به صفر رسیده، ولی از در عقب داره برمی‌گرده | Instagram + Twitter | single post | research/trends/2026-06-13-nvidia-vera-cpu-china-sidedoor.md | 2026-06-13 |
+| یه مدل کدنویسی رایگان چینی با ۱ تریلیون پارامتر آمد و ادعا می‌کنه روی tool-use از Claude Opus بهتره — Kimi K2.7 Code روی Hugging Face رایگانه | Instagram + Twitter | single post | research/trends/2026-06-13-kimi-k27-code-open-source-1T.md | 2026-06-13 |
+| بزوس ۱۲ میلیارد دلار جمع کرد برای AI که موتور جت طراحی می‌کنه — نه AGI، بلکه AGE. ۱۵۰ نفر، ۱۸ میلیارد دلار کل سرمایه در ۷ ماه | Instagram + Twitter | single post | research/trends/2026-06-13-prometheus-bezos-12b-artificial-general-engineer.md | 2026-06-13 |
+| شرکت بارسلونایی Theker بزرگ‌ترین سری A رباتیک تاریخ اروپا رو بست — ۸۵ میلیون دلار، سرمایه‌گذارش لویی ویتون و سامسونگ. ربات می‌سازه که دستش رو عوض می‌کنه | Instagram + Twitter | single post | research/trends/2026-06-13-theker-85m-europe-largest-robotics-series-a.md | 2026-06-13 |
 | ~~دولت آمریکا به Anthropic دستور داد Fable 5 و Mythos 5 رو برای کاربران خارج از آمریکا خاموش کنه — ۷۲ ساعت بعد از لانچ. شرکتی که از خطر AI حرف می‌زنه، الان داره با دولتش بحث می‌کنه که مدلش خطرناک نیست~~ ✅ written 2026-06-13 | Instagram + Twitter | single post | outputs/telegram/2026-06-13-anthropic-fable5-mythos5-us-shutdown.md | 2026-06-13 |
 | ~~گوگل قیمت اشتراک Google AI Plus رو از ۷.۹۹ به ۴.۹۹ دلار رسوند — ارزان‌ترین اشتراک AI بین همه‌ی لب‌های بزرگ. ChatGPT Plus ماهی ۲۰ دلار، Claude Pro ماهی ۱۸ دلار~~ ✅ written 2026-06-13 | Instagram + Twitter | single post | outputs/telegram/2026-06-13-google-ai-plus-499-price-cut.md | 2026-06-13 |
 | آنتروپیک ۱۰۰۰ نفر رو با ۸۵ هزار دلار استخدام کرد — بدون مدرک، فقط بلد باشن Claude کار کنن. شرکتی که داره شغل‌ها رو از بین می‌بره، ۱۵۰ میلیون دلار خرج کرد تا آدم‌ها یاد بگیرن با AI کنار بیان | Instagram + Twitter | single post | research/trends/2026-06-12-anthropic-claude-corps-150m-fellowship.md | 2026-06-12 |
