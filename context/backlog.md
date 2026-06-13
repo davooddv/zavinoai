@@ -9,6 +9,8 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| ~~دولت آمریکا به Anthropic دستور داد Fable 5 و Mythos 5 رو برای کاربران خارج از آمریکا خاموش کنه — ۷۲ ساعت بعد از لانچ. شرکتی که از خطر AI حرف می‌زنه، الان داره با دولتش بحث می‌کنه که مدلش خطرناک نیست~~ ✅ written 2026-06-13 | Instagram + Twitter | single post | outputs/telegram/2026-06-13-anthropic-fable5-mythos5-us-shutdown.md | 2026-06-13 |
+| ~~گوگل قیمت اشتراک Google AI Plus رو از ۷.۹۹ به ۴.۹۹ دلار رسوند — ارزان‌ترین اشتراک AI بین همه‌ی لب‌های بزرگ. ChatGPT Plus ماهی ۲۰ دلار، Claude Pro ماهی ۱۸ دلار~~ ✅ written 2026-06-13 | Instagram + Twitter | single post | outputs/telegram/2026-06-13-google-ai-plus-499-price-cut.md | 2026-06-13 |
 | آنتروپیک ۱۰۰۰ نفر رو با ۸۵ هزار دلار استخدام کرد — بدون مدرک، فقط بلد باشن Claude کار کنن. شرکتی که داره شغل‌ها رو از بین می‌بره، ۱۵۰ میلیون دلار خرج کرد تا آدم‌ها یاد بگیرن با AI کنار بیان | Instagram + Twitter | single post | research/trends/2026-06-12-anthropic-claude-corps-150m-fellowship.md | 2026-06-12 |
 | ~~دو شرکت ChatGPT و Claude در ۱۰ روز هر دو فرم بورس پر کردن — هر دو میلیاردها ضرر دارن، هر دو میلیاردها ارزش دارن. شرکتی که ChatGPT رو ساخت از رقیبش ارزان‌تره~~ ✅ written 2026-06-13 | Instagram + Twitter | single post | outputs/telegram/2026-06-13-openai-anthropic-ipo-dual-filing.md | 2026-06-12 |
 | مدل ارزون‌تر گوگل از مدل گرون‌ترش باهوش‌تر شد — و الان مغز همه سرچ‌های دنیاست. Gemini 3.5 Flash جایگزین 3.1 Pro شد | Instagram + Twitter | single post | research/trends/2026-06-12-gemini-35-flash-google-search-default.md | 2026-06-12 |
