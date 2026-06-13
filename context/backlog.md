@@ -10,7 +10,7 @@
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
 | آنتروپیک ۱۰۰۰ نفر رو با ۸۵ هزار دلار استخدام کرد — بدون مدرک، فقط بلد باشن Claude کار کنن. شرکتی که داره شغل‌ها رو از بین می‌بره، ۱۵۰ میلیون دلار خرج کرد تا آدم‌ها یاد بگیرن با AI کنار بیان | Instagram + Twitter | single post | research/trends/2026-06-12-anthropic-claude-corps-150m-fellowship.md | 2026-06-12 |
-| دو شرکت ChatGPT و Claude در ۱۰ روز هر دو فرم بورس پر کردن — هر دو میلیاردها ضرر دارن، هر دو میلیاردها ارزش دارن. شرکتی که ChatGPT رو ساخت از رقیبش ارزان‌تره | Instagram + Twitter | single post | research/trends/2026-06-12-openai-ipo-confidential-s1-filing.md | 2026-06-12 |
+| ~~دو شرکت ChatGPT و Claude در ۱۰ روز هر دو فرم بورس پر کردن — هر دو میلیاردها ضرر دارن، هر دو میلیاردها ارزش دارن. شرکتی که ChatGPT رو ساخت از رقیبش ارزان‌تره~~ ✅ written 2026-06-13 | Instagram + Twitter | single post | outputs/telegram/2026-06-13-openai-anthropic-ipo-dual-filing.md | 2026-06-12 |
 | مدل ارزون‌تر گوگل از مدل گرون‌ترش باهوش‌تر شد — و الان مغز همه سرچ‌های دنیاست. Gemini 3.5 Flash جایگزین 3.1 Pro شد | Instagram + Twitter | single post | research/trends/2026-06-12-gemini-35-flash-google-search-default.md | 2026-06-12 |
 | آمریکا چیپ‌هاش رو از چین گرفت — چین ۲۹۵ میلیارد دلار خرج کرد تا دیگه به آمریکا نیاز نداشته باشه. ۸۰٪ تراشه‌ها از هواوی، انویدیا ممنوع | Instagram + Twitter | single post | research/trends/2026-06-09-china-295b-ai-datacenter-no-nvidia.md | 2026-06-11 |
 | ~~آنتروپیک ۴ روز پیش گفت AI خطرناکه — امروز قوی‌ترین مدلش رو برای همه آزاد کرد. Claude Fable 5 همون مدلیه که ۲۷۱ باگ مخفی Firefox رو در یه بار اسکن پیدا کرد~~ ✅ written 2026-06-10 | Instagram + Twitter | single post | outputs/telegram/2026-06-10-claude-fable-5-public-release.md | 2026-06-10 |
@@ -41,7 +41,7 @@
 | تیم کوک بعد از ۱۵ سال داره می‌ره — WWDC 2026 آخرین keynoteشه و Siri بالاخره تبدیل به AI واقعی می‌شه | Instagram + Twitter | single post | research/trends/2026-06-04-apple-wwdc-2026-siri-tim-cook.md | 2026-06-04 |
 | مایکروسافت از هوش مصنوعی خودش استفاده کرد تا تراشه کوانتومی بسازه — ۱۰۰۰ برابر بهتر، تایم‌لاین از ۲۰۳۵ به ۲۰۲۹ | Instagram + Twitter | single post | research/trends/2026-06-03-microsoft-majorana2-quantum.md | 2026-06-03 |
 | شرکت OpenAI و آمازون رقیبن — اما GPT-5.5 الان روی AWS کنار Claude می‌فروشه | Instagram + Twitter | single post | research/trends/2026-06-03-openai-aws-bedrock-ga.md | 2026-06-03 |
-| ابزار Codex دیگه فقط برای برنامه‌نویسا نیست — ۵ میلیون کاربر هفتگی دارن و کاربرهای غیرفنی ۳ برابر سریع‌تر رشد می‌کنن | Instagram + Twitter | single post | research/inbox/2026-06-03-daily-news.md | 2026-06-03 |
+| ~~ابزار Codex دیگه فقط برای برنامه‌نویسا نیست — ۵ میلیون کاربر هفتگی دارن و کاربرهای غیرفنی ۳ برابر سریع‌تر رشد می‌کنن~~ ✅ written 2026-06-13 | Instagram + Twitter | single post | outputs/telegram/2026-06-13-codex-ona-non-developers.md | 2026-06-03 |
 | مایکروسافت یه دستیار AI ساخته که اسم داره، یاد می‌گیره، و وقتی لپ‌تاپت قفله داره کارت رو انجام می‌ده — Scout | Instagram + Twitter | single post | research/inbox/2026-06-03-daily-news.md | 2026-06-03 |
 | ~~وارن بافت ۱۰ میلیارد دلار روی AI گوگل شرط بست~~ ✅ written 2026-06-04 | Instagram + Twitter | single post | outputs/telegram/2026-06-04-buffett-google-ai.md | 2026-06-02 |
 | مایکروسافت ۱۳ میلیارد دلار تو OpenAI گذاشت — حالا داره مدل‌هایی می‌سازه که بهشون نیاز نداشته باشه | Instagram + Twitter | single post | research/trends/2026-06-02-microsoft-build-2026-mai-models.md | 2026-06-02 |
