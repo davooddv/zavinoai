@@ -9,6 +9,8 @@
 
 | Idea | Platform | Format | Source | Added |
 |---|---|---|---|---|
+| شرکت ۳ ساله چینی EngineAI برای IPO در هنگ‌کنگ ثبت‌نام کرد — ربات T800 هر ۱۵ دقیقه از کارخونه می‌زنه بیرون، ارزش ۱.۵ میلیارد دلار، سرمایه‌گذار اصلی تامین‌کننده Apple | Instagram + Twitter | single post | research/trends/2026-06-14-engineai-humanoid-ipo-hongkong.md | 2026-06-14 |
+| شرکت رباتیک آلمانی NEURA 1.4 میلیارد دلار جمع کرد — Tether، Amazon و Nvidia همه با هم شرط بستن. جالب‌تر: هر ربات کیف‌پول کریپتو داره و می‌تونه خودش حقوق بگیره | Instagram + Twitter | single post | research/trends/2026-06-14-neura-robotics-1-4b-tether-amazon-nvidia.md | 2026-06-14 |
 | انویدیا GPU فروختن به چین ممنوع بود — ولی CPU ممنوع نیست. از آگوست مشتریان چینی می‌تونن Vera CPU سفارش بدن. جنسن هوانگ گفت سهم چین به صفر رسیده، ولی از در عقب داره برمی‌گرده | Instagram + Twitter | single post | research/trends/2026-06-13-nvidia-vera-cpu-china-sidedoor.md | 2026-06-13 |
 | یه مدل کدنویسی رایگان چینی با ۱ تریلیون پارامتر آمد و ادعا می‌کنه روی tool-use از Claude Opus بهتره — Kimi K2.7 Code روی Hugging Face رایگانه | Instagram + Twitter | single post | research/trends/2026-06-13-kimi-k27-code-open-source-1T.md | 2026-06-13 |
 | بزوس ۱۲ میلیارد دلار جمع کرد برای AI که موتور جت طراحی می‌کنه — نه AGI، بلکه AGE. ۱۵۰ نفر، ۱۸ میلیارد دلار کل سرمایه در ۷ ماه | Instagram + Twitter | single post | research/trends/2026-06-13-prometheus-bezos-12b-artificial-general-engineer.md | 2026-06-13 |
